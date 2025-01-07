@@ -1,6 +1,8 @@
 import os
 import sys
 import scipy
+import numpy as np
+
 from invoke import task
 
 CURRENT_DIR = os.getcwd()
