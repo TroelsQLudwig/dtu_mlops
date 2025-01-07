@@ -1,6 +1,5 @@
 import os
 import sys
-import scipy
 
 from invoke import task
 
